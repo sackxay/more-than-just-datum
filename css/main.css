@@ -25,3 +25,7 @@ img {
 .nearest {
   background-color: #fff;
 }
+
+.table-wrapper table {
+  min-width: 45em;
+}
