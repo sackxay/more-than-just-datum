@@ -5,3 +5,7 @@ html {
 header {
   background-color: #ddd;
 }
+
+.search-icon {
+  left: .3em;
+}
