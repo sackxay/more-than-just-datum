@@ -6,6 +6,10 @@ header {
   background-color: #ddd;
 }
 
+img {
+  max-width: 200px;
+}
+
 .search-icon {
   left: .3em;
 }
